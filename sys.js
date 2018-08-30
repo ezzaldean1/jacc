@@ -6,7 +6,7 @@ client.on('ready', () => {
 
   console.log('---------------');
 
-  console.log(' Mo3 Bot Is Online')
+  console.log(' Mo3hhh Bot Is Online')
 
   console.log('---------------')
 
